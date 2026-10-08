@@ -1,6 +1,6 @@
 # Kaman POS Privacy Policy
 
-**Effective date:** October 8, 2026  
+**Effective date:** October 8, 2026
 **Last updated:** October 8, 2026
 
 Kaman POS ("Kaman," "we," "us," or "our") is a point-of-sale application for restaurant staff. This policy explains how information is handled when a restaurant uses the Kaman POS app and its related services. It applies to the Android and iOS app. The restaurant is responsible for the customer and business information its staff enter into the service; Kaman provides the software and related support.
@@ -68,7 +68,10 @@ We may update this policy when our services or data practices change. The date a
 
 ## 10. Contact
 
-**Kaman POS**  
-Email: **healpy245@gmail.com**  
-Phone: **0584680001**  
+**Kaman POS**
+
+Email: **healpy245@gmail.com**
+
+Phone: **0584680001**
+
 Website: [kaman-workspace.com](https://kaman-workspace.com/)
